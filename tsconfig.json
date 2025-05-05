@@ -8,6 +8,12 @@
     },
     {
       "path": "./apps/test"
+    },
+    {
+      "path": "./apps/app2-e2e"
+    },
+    {
+      "path": "./apps/app2"
     }
   ]
 }
